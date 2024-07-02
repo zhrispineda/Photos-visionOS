@@ -9,13 +9,13 @@ import RealityKitContent
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Model3D(named: "Scene", bundle: realityKitContentBundle)
-                .padding(.bottom, 50)
-
-            Text("Hello, world!")
+        TabView {
+            Tab("Library", systemImage: "photo.fill.on.rectangle.fill") {}
+            Tab("Collections", systemImage: "square.grid.2x2.fill") {}
+            Tab("Spatial", systemImage: "cube") {}
+            Tab("Panoramas", systemImage: "pano.fill") {}
+            Tab("Search", systemImage: "magnifyingglass") {}
         }
-        .padding()
     }
 }
 

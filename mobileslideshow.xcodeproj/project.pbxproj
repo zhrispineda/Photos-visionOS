@@ -37,6 +37,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		833577662C346ED30063F433 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		83D36E6F2C34693400629353 = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +65,7 @@
 		83D36E7A2C34693400629353 /* mobileslideshow */ = {
 			isa = PBXGroup;
 			children = (
+				833577662C346ED30063F433 /* Views */,
 				83D36E7F2C34693400629353 /* mobileslideshowApp.swift */,
 				83D36E812C34693400629353 /* ContentView.swift */,
 				83D36E832C34693500629353 /* Assets.xcassets */,
