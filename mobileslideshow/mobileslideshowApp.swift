@@ -1,8 +1,6 @@
 //
 //  mobileslideshowApp.swift
-//  mobileslideshow
-//
-//  Created by Chris on 7/2/24.
+//  Photos
 //
 
 import SwiftUI
