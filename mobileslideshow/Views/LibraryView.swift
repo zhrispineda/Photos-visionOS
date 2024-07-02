@@ -7,6 +7,7 @@ import SwiftUI
 
 struct LibraryView: View {
     // Variables
+    @State private var showingAccountView = false
     @State private var selectedOption = "All Items"
     @State private var selectedRatioGrid = "Square"
     
@@ -34,6 +35,12 @@ struct LibraryView: View {
                 Text("No Photos or Videos")
                     .font(.title2)
                     .padding(.bottom, 50)
+            }
+            .sheet(isPresented: $showingAccountView) {
+                NavigationStack {
+                    AccountView()
+                }
+                //.frame(width: 600, height: 500)
             }
             .toolbar {
                 if selectedOption != "All Items" {
@@ -125,7 +132,9 @@ struct LibraryView: View {
                             }
                         }
                     } label: {
-                        Label {} icon: {
+                        Label {
+                            Text("Sort")
+                        } icon: {
                             Image(_internalSystemName: "arrow.trianglehead.up.arrow.trianglehead.down")
                         }
                     }
@@ -133,7 +142,9 @@ struct LibraryView: View {
                 
                 // MARK: Manage button
                 ToolbarItem(placement: .topBarTrailing) {
-                    Button {} label: {
+                    Button {
+                        showingAccountView.toggle()
+                    } label: {
                         Label("Manage", systemImage: "person.fill")
                     }
                 }
