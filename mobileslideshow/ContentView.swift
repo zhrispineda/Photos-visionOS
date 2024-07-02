@@ -16,7 +16,9 @@ struct ContentView: View {
             Tab("Collections", systemImage: "square.grid.2x2.fill") {
                 CollectionsView()
             }
-            Tab("Spatial", systemImage: "cube") {}
+            Tab("Spatial", systemImage: "cube") {
+                SpatialView()
+            }
             Tab("Panoramas", systemImage: "pano.fill") {}
             Tab("Search", systemImage: "magnifyingglass") {}
         }
