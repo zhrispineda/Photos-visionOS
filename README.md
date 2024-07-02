@@ -1,6 +1,9 @@
 # Photos-visionOS
 A **work-in-progress** SwiftUI recreation of the visionOS **2 beta** Photos app.
 
+## Preview
+![An image of the recreated Photos app in visionOS, with the Sort menu shown along with its sorting options.](Assets/Photos.png)
+
 > [!IMPORTANT]
 >
 > This project is being worked on using **Xcode 16 beta** with new APIs for visionOS 2.0+.
