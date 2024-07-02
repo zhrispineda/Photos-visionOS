@@ -40,7 +40,6 @@ struct LibraryView: View {
                 NavigationStack {
                     AccountView()
                 }
-                //.frame(width: 600, height: 500)
             }
             .toolbar {
                 if selectedOption != "All Items" {

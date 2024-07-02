@@ -10,6 +10,7 @@
 		833577682C346F4C0063F433 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833577672C346F4C0063F433 /* LibraryView.swift */; };
 		8335776B2C3480080063F433 /* Photos.png in Resources */ = {isa = PBXBuildFile; fileRef = 8335776A2C3480080063F433 /* Photos.png */; };
 		8335776E2C3482460063F433 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8335776D2C3482460063F433 /* AccountView.swift */; };
+		833577702C348E2E0063F433 /* CollectionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8335776F2C348E2E0063F433 /* CollectionsView.swift */; };
 		83D36E7E2C34693400629353 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 83D36E7D2C34693400629353 /* RealityKitContent */; };
 		83D36E802C34693400629353 /* mobileslideshowApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D36E7F2C34693400629353 /* mobileslideshowApp.swift */; };
 		83D36E822C34693400629353 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D36E812C34693400629353 /* ContentView.swift */; };
@@ -22,6 +23,7 @@
 		833577672C346F4C0063F433 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
 		8335776A2C3480080063F433 /* Photos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Photos.png; sourceTree = "<group>"; };
 		8335776D2C3482460063F433 /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
+		8335776F2C348E2E0063F433 /* CollectionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionsView.swift; sourceTree = "<group>"; };
 		83D36E782C34693400629353 /* mobileslideshow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mobileslideshow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83D36E7C2C34693400629353 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		83D36E7F2C34693400629353 /* mobileslideshowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mobileslideshowApp.swift; sourceTree = "<group>"; };
@@ -48,6 +50,7 @@
 			children = (
 				8335776C2C34823B0063F433 /* Shared */,
 				833577672C346F4C0063F433 /* LibraryView.swift */,
+				8335776F2C348E2E0063F433 /* CollectionsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 			files = (
 				8335776E2C3482460063F433 /* AccountView.swift in Sources */,
 				83D36E822C34693400629353 /* ContentView.swift in Sources */,
+				833577702C348E2E0063F433 /* CollectionsView.swift in Sources */,
 				833577682C346F4C0063F433 /* LibraryView.swift in Sources */,
 				83D36E802C34693400629353 /* mobileslideshowApp.swift in Sources */,
 			);
