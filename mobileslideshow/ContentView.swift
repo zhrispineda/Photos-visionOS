@@ -19,8 +19,12 @@ struct ContentView: View {
             Tab("Spatial", systemImage: "cube") {
                 SpatialView()
             }
-            Tab("Panoramas", systemImage: "pano.fill") {}
-            Tab("Search", systemImage: "magnifyingglass") {}
+            Tab("Panoramas", systemImage: "pano.fill") {
+                PanoramaView()
+            }
+            Tab("Search", systemImage: "magnifyingglass") {
+                SearchView()
+            }
         }
     }
 }
