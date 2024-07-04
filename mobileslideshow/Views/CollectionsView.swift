@@ -12,8 +12,16 @@ struct CollectionsView: View {
     var body: some View {
         NavigationStack {
             ScrollView {
-                
+                ZStack {
+                    Rectangle()
+                        .frame(height: 500)
+                        .foregroundStyle(Color(UIColor.systemFill))
+                    Button("Customize") {}
+                        .padding(.top)
+                }
             }
+            .background(Color(UIColor.systemBackground))
+            .ignoresSafeArea()
             .sheet(isPresented: $showingAccountView) {
                 NavigationStack {
                     AccountView()
