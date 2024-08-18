@@ -8,6 +8,7 @@ import SwiftUI
 struct PanoramaView: View {
     // Variables
     @State private var showingAccountView = false
+    @State private var showingPopup = true
     @State private var selectedOption = "All Items"
     @State private var selectedRatioGrid = "Square"
     
@@ -36,6 +37,44 @@ struct PanoramaView: View {
                         .foregroundStyle(.secondary)
                 }
                 .padding(.top, 280)
+                .sheet(isPresented: $showingPopup) {
+                    VStack {
+                        HStack {
+                            Spacer()
+                            Button("Done") {
+                                showingPopup.toggle()
+                            }
+                        }
+                        
+                        Text("Experience Panoramas in\na New Way")
+                            .font(.largeTitle)
+                            .multilineTextAlignment(.center)
+                        
+                        ZStack {
+                            Rectangle()
+                            Image("PanoLandingImmerse")
+                                .resizable()
+                                .scaledToFill()
+                            Button {} label: {
+                                HStack {
+                                    Image(_internalSystemName: "inset.filled.pano")
+                                    Text("Try Immersive")
+                                }
+                            }
+                        }
+                        .frame(width: 500, height: 185)
+                        .clipShape(RoundedRectangle(cornerRadius: 20))
+                        
+                        Image(systemName: "iphone.rear.camera")
+                            .font(.largeTitle)
+                            .fontWeight(.light)
+                            .padding(.top)
+                        Text("Use iPhone or iPad to take Panoramas")
+                            .padding(.bottom)
+                            .font(.callout)
+                    }
+                    .padding()
+                }
             }
             .navigationTitle("Panoramas")
             .toolbar {
