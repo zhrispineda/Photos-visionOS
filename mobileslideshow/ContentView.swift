@@ -30,6 +30,5 @@ struct ContentView: View {
 }
 
 #Preview(windowStyle: .automatic) {
-    //ContentView()
-    CollectionsView()
+    ContentView()
 }

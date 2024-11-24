@@ -1,21 +1,15 @@
 # Photos-visionOS
-A **work-in-progress** SwiftUI recreation of the visionOS **2 beta** Photos app.
+A **work-in-progress** SwiftUI recreation of the visionOS **2** Photos app.
 
 ## Preview
 ![An image of the recreated Photos app in visionOS, with the Sort menu shown along with its sorting options.](Assets/Photos.png)
 
-> [!IMPORTANT]
->
-> This project is being worked on using **Xcode 16 beta** with new APIs for visionOS 2.0+.
-> It cannot be used on older versions.
->
-
 ## Information
-- This personal project is a recreation of Apple's Photos app for visionOS 2 **beta**.
+- This personal project is a recreation of Apple's Photos app for visionOS.
 - Features such as accessing and viewing photos are not implemented yet.
 
 ## Usage
-Open the project in Xcode 16 beta and run with either a Simulator instance or a physical device with Developer Mode enabled as a destination on visionOS 2 beta.
+Open the project in Xcode and run with either a Simulator instance or a physical device with Developer Mode enabled as a destination on visionOS.
 
 As this is a personal project for learning Swift and SwiftUI, feel free to download and modify the project for your own personal purposes.
 

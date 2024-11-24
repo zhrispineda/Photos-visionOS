@@ -14,6 +14,7 @@
 		833577722C34906E0063F433 /* SpatialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833577712C34906E0063F433 /* SpatialView.swift */; };
 		833577742C34940F0063F433 /* PanoramaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833577732C34940F0063F433 /* PanoramaView.swift */; };
 		833577762C3495910063F433 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833577752C3495910063F433 /* SearchView.swift */; };
+		8343319C2CF38CC400A7AE24 /* OnBoardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8343319B2CF38CC400A7AE24 /* OnBoardingView.swift */; };
 		83D36E7E2C34693400629353 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 83D36E7D2C34693400629353 /* RealityKitContent */; };
 		83D36E802C34693400629353 /* mobileslideshowApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D36E7F2C34693400629353 /* mobileslideshowApp.swift */; };
 		83D36E822C34693400629353 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D36E812C34693400629353 /* ContentView.swift */; };
@@ -30,6 +31,7 @@
 		833577712C34906E0063F433 /* SpatialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpatialView.swift; sourceTree = "<group>"; };
 		833577732C34940F0063F433 /* PanoramaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanoramaView.swift; sourceTree = "<group>"; };
 		833577752C3495910063F433 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		8343319B2CF38CC400A7AE24 /* OnBoardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingView.swift; sourceTree = "<group>"; };
 		83D36E782C34693400629353 /* mobileslideshow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mobileslideshow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83D36E7C2C34693400629353 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		83D36E7F2C34693400629353 /* mobileslideshowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mobileslideshowApp.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		833577662C346ED30063F433 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				8343319A2CF38CB800A7AE24 /* Subviews */,
 				8335776C2C34823B0063F433 /* Shared */,
 				833577672C346F4C0063F433 /* LibraryView.swift */,
 				8335776F2C348E2E0063F433 /* CollectionsView.swift */,
@@ -78,6 +81,14 @@
 				8335776D2C3482460063F433 /* AccountView.swift */,
 			);
 			path = Shared;
+			sourceTree = "<group>";
+		};
+		8343319A2CF38CB800A7AE24 /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				8343319B2CF38CC400A7AE24 /* OnBoardingView.swift */,
+			);
+			path = Subviews;
 			sourceTree = "<group>";
 		};
 		83D36E6F2C34693400629353 = {
@@ -205,6 +216,7 @@
 				8335776E2C3482460063F433 /* AccountView.swift in Sources */,
 				83D36E822C34693400629353 /* ContentView.swift in Sources */,
 				833577702C348E2E0063F433 /* CollectionsView.swift in Sources */,
+				8343319C2CF38CC400A7AE24 /* OnBoardingView.swift in Sources */,
 				833577722C34906E0063F433 /* SpatialView.swift in Sources */,
 				833577762C3495910063F433 /* SearchView.swift in Sources */,
 				833577682C346F4C0063F433 /* LibraryView.swift in Sources */,

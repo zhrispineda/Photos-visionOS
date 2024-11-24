@@ -8,12 +8,13 @@ import SwiftUI
 struct CollectionsView: View {
     // Variables
     @State private var showingAccountView = false
+    @State private var showingNewFeatures = false
     
     var body: some View {
         NavigationStack {
             ScrollView {
                 Rectangle()
-                    .frame(height: 500)
+                    .frame(height: 350)
                     .foregroundStyle(Color(UIColor.systemBackground)) //(Color(UIColor.systemFill))
                 HStack(spacing: 20) {
                     VStack(spacing: 30) { // Wider left side
@@ -33,10 +34,17 @@ struct CollectionsView: View {
             }
             .background(Color(UIColor.systemBackground))
             .ignoresSafeArea()
+            .onAppear {
+                showingNewFeatures.toggle()
+            }
             .sheet(isPresented: $showingAccountView) {
                 NavigationStack {
                     AccountView()
                 }
+            }
+            .sheet(isPresented: $showingNewFeatures) {
+                OnBoardingView()
+                    .frame(width: 700, height: 650)
             }
             .toolbar {
                 // MARK: Customize button
