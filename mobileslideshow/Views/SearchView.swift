@@ -35,5 +35,7 @@ struct SearchView: View {
 }
 
 #Preview {
-    SearchView()
+    NavigationStack {
+        SearchView()
+    }
 }

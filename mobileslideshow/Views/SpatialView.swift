@@ -9,6 +9,7 @@ struct SpatialView: View {
     // Variables
     @State private var selectedOption = "All Items"
     @State private var showingAccountView = false
+    @State private var showingPopup = true
     
     struct FilterOption: Hashable, Identifiable {
         var id: String { name }
@@ -39,6 +40,48 @@ struct SpatialView: View {
                 .padding(.top, 280)
             }
             .navigationTitle("Spatial")
+            .sheet(isPresented: $showingPopup) {
+                VStack(spacing: 20) {
+                    HStack {
+                        Spacer()
+                        Button("Done") {
+                            showingPopup.toggle()
+                        }
+                    }
+                    
+                    Text("Immerse in Spatial Photos and Videos")
+                        .font(.largeTitle)
+                        .multilineTextAlignment(.center)
+                        .frame(maxWidth: 300)
+                        .frame(height: 75)
+                    
+                    ZStack {
+                        Rectangle()
+                        Image("SpatialLandingImmersive")
+                            .resizable()
+                            .scaledToFill()
+                        Button {} label: {
+                            HStack {
+                                Image(_internalSystemName: "inset.filled.pano")
+                                Text("Try Immersive")
+                            }
+                        }
+                        .offset(y: 130)
+                    }
+                    .frame(width: 350, height: 350)
+                    .clipShape(RoundedRectangle(cornerRadius: 20))
+                    
+                    Image(systemName: "button.horizontal.top.press")
+                        .font(.largeTitle)
+                        .fontWeight(.light)
+                        .padding(.top)
+                    Text("Press the top button to start capturing")
+                        .fontWeight(.bold)
+                        .padding(.bottom)
+                        .font(.callout)
+                }
+                .padding()
+            }
             .toolbar {
                 if selectedOption != "All Items" {
                     // MARK: Filter button

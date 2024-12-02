@@ -8,11 +8,11 @@ import SwiftUI
 struct AccountView: View {
     // Variables
     @Environment(\.dismiss) private var dismiss
-    @State private var showHiddenAlbum = true
-    @State private var autoPlayVideosLivePhotos = true
-    @State private var viewFullHDR = true
-    @State private var showFeaturedContent = true
-    @State private var showHolidayEvents = true
+    @AppStorage("ShowHiddenAlbum") private var showHiddenAlbum = true
+    @AppStorage("AutoPlayMedia") private var autoPlayVideosLivePhotos = true
+    @AppStorage("ViewHDR") private var viewFullHDR = true
+    @AppStorage("ShowFeaturedContent") private var showFeaturedContent = true
+    @AppStorage("ShowHolidayEvents") private var showHolidayEvents = true
     
     var body: some View {
         List {
