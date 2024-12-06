@@ -13,14 +13,12 @@ struct SearchView: View {
     var body: some View {
         NavigationStack {
             EmptyView()
-        }
-        .popover(isPresented: $showingInfo) {
-            Text("Photos analyzes your library to provide more accurate search results.")
-                .padding(.horizontal)
+                .navigationTitle("Recents")
         }
         .overlay(alignment: .bottom) {
             HStack {
-                Text("Indexing Your Library...")
+                Text("Some Results May Not Appear")
+                
                 Button {
                     showingInfo.toggle()
                 } label: {
@@ -28,6 +26,12 @@ struct SearchView: View {
                 }
                 .mask(Circle().scaleEffect(0.7))
                 .padding(.leading, -15)
+                .popover(isPresented: $showingInfo) {
+                    Text("Photos organizes photos and videos when Apple Vision Pro is locked and connected to Wi-Fi.")
+                        .font(.footnote)
+                        .padding(.horizontal)
+                        .frame(maxWidth: 250, idealHeight: 100)
+                }
             }
             .padding(.bottom)
         }
