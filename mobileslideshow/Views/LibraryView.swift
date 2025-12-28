@@ -6,27 +6,21 @@
 import SwiftUI
 
 struct LibraryView: View {
-    // Variables
     @State private var showingAccountView = false
     @State private var selectedOption = "All Items"
     @State private var selectedRatioGrid = "Square"
-    
-    @State var selectedOptions: [String] = []
-    struct FilterOption: Hashable, Identifiable {
-        var id: String { name }
-        var name: String
-        var icon: String
-    }
-    
+    @State private var selectedShowOptions = "Screenshots"
     let includeOptions: [FilterOption] = [
         .init(name: "All Items", icon: "photo.on.rectangle")
     ]
-    
     let onlyShowOptions: [FilterOption] = [
         .init(name: "Favorites", icon: "heart"),
         .init(name: "Edited", icon: "slider.horizontal.3"),
         .init(name: "Photos", icon: "photo"),
         .init(name: "Videos", icon: "video")
+    ]
+    let viewOptions: [FilterOption] = [
+        .init(name: "Screenshots", icon: "camera.viewfinder")
     ]
     
     var body: some View {
@@ -83,7 +77,7 @@ struct LibraryView: View {
                 
                 // MARK: Sort button
                 ToolbarItem(placement: .topBarTrailing) {
-                    Menu {
+                    Menu("Sort", systemImage: "ellipsis") {
                         Section {
                             Button("Sort by Recently Added") {}
                             Button("Sort by Date Added") {}
@@ -123,20 +117,26 @@ struct LibraryView: View {
                             }
                             
                             Menu("View Options") {
-                                Button {
-                                    selectedRatioGrid = selectedRatioGrid == "Square" ? "Aspect" : "Square"
-                                } label: {
-                                    Label("\(selectedRatioGrid == "Square" ? "Aspect" : "Square") Ratio Grid", systemImage: selectedRatioGrid == "Square" ? "rectangle.compress.vertical" : "rectangle.expand.vertical")
+                                Section {
+                                    Button {
+                                        selectedRatioGrid = selectedRatioGrid == "Square" ? "Aspect" : "Square"
+                                    } label: {
+                                        Label("\(selectedRatioGrid == "Square" ? "Aspect" : "Square") Ratio Grid", systemImage: selectedRatioGrid == "Square" ? "rectangle.compress.vertical" : "rectangle.expand.vertical")
+                                    }
+                                }
+                                
+                                Section {
+                                    Picker("Show:", selection: $selectedShowOptions) {
+                                        ForEach(viewOptions) { option in
+                                            Button(option.name, systemImage: option.icon) {}
+                                        }
+                                    }
+                                    .labelsVisibility(.visible)
                                 }
                             }
                         }
-                    } label: {
-                        Label {
-                            Text("Sort")
-                        } icon: {
-                            Image(_internalSystemName: "arrow.trianglehead.up.arrow.trianglehead.down")
-                        }
                     }
+                    .menuStyle(.borderlessButton)
                 }
                 
                 // MARK: Manage button
@@ -161,6 +161,12 @@ struct LibraryView: View {
             .glassBackgroundEffect()
         }
     }
+}
+
+struct FilterOption: Hashable, Identifiable {
+    var id: String { name }
+    var name: String
+    var icon: String
 }
 
 #Preview {
