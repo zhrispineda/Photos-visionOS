@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8303F5312FE4D63100456FF1 /* String+Localize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8303F5302FE4D63100456FF1 /* String+Localize.swift */; };
+		8303F5332FE4D6CC00456FF1 /* UIDevice+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8303F5322FE4D6CC00456FF1 /* UIDevice+Utils.swift */; };
+		8303F5362FE4D7A300456FF1 /* MGHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8303F5352FE4D7A300456FF1 /* MGHelper.swift */; };
 		833577682C346F4C0063F433 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833577672C346F4C0063F433 /* LibraryView.swift */; };
 		8335776B2C3480080063F433 /* Photos.png in Resources */ = {isa = PBXBuildFile; fileRef = 8335776A2C3480080063F433 /* Photos.png */; };
 		8335776E2C3482460063F433 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8335776D2C3482460063F433 /* AccountView.swift */; };
@@ -23,6 +26,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8303F5302FE4D63100456FF1 /* String+Localize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Localize.swift"; sourceTree = "<group>"; };
+		8303F5322FE4D6CC00456FF1 /* UIDevice+Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+Utils.swift"; sourceTree = "<group>"; };
+		8303F5352FE4D7A300456FF1 /* MGHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MGHelper.swift; sourceTree = "<group>"; };
 		833577652C346C890063F433 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		833577672C346F4C0063F433 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
 		8335776A2C3480080063F433 /* Photos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Photos.png; sourceTree = "<group>"; };
@@ -53,6 +59,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8303F52F2FE4D61F00456FF1 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				8303F5302FE4D63100456FF1 /* String+Localize.swift */,
+				8303F5322FE4D6CC00456FF1 /* UIDevice+Utils.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		8303F5342FE4D77800456FF1 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				8303F5352FE4D7A300456FF1 /* MGHelper.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
 		833577662C346ED30063F433 /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -113,6 +136,8 @@
 		83D36E7A2C34693400629353 /* mobileslideshow */ = {
 			isa = PBXGroup;
 			children = (
+				8303F5342FE4D77800456FF1 /* Components */,
+				8303F52F2FE4D61F00456FF1 /* Extensions */,
 				833577662C346ED30063F433 /* Views */,
 				83D36E7F2C34693400629353 /* mobileslideshowApp.swift */,
 				83D36E812C34693400629353 /* ContentView.swift */,
@@ -170,7 +195,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
-				LastUpgradeCheck = 1600;
+				LastUpgradeCheck = 2700;
 				TargetAttributes = {
 					83D36E772C34693400629353 = {
 						CreatedOnToolsVersion = 16.0;
@@ -214,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8335776E2C3482460063F433 /* AccountView.swift in Sources */,
+				8303F5362FE4D7A300456FF1 /* MGHelper.swift in Sources */,
 				83D36E822C34693400629353 /* ContentView.swift in Sources */,
 				833577702C348E2E0063F433 /* CollectionsView.swift in Sources */,
 				8343319C2CF38CC400A7AE24 /* OnBoardingView.swift in Sources */,
@@ -221,6 +247,8 @@
 				833577762C3495910063F433 /* SearchView.swift in Sources */,
 				833577682C346F4C0063F433 /* LibraryView.swift in Sources */,
 				83D36E802C34693400629353 /* mobileslideshowApp.swift in Sources */,
+				8303F5332FE4D6CC00456FF1 /* UIDevice+Utils.swift in Sources */,
+				8303F5312FE4D63100456FF1 /* String+Localize.swift in Sources */,
 				833577742C34940F0063F433 /* PanoramaView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
