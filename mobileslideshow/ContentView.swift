@@ -4,8 +4,6 @@
 //
 
 import SwiftUI
-import RealityKit
-import RealityKitContent
 
 struct ContentView: View {
     private let path = "/System/Library/PrivateFrameworks/PhotosUICore.framework"

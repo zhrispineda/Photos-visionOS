@@ -67,17 +67,19 @@ struct SpatialView: View {
             .toolbar {
                 // MARK: Sort button
                 ToolbarItem(placement: .topBarTrailing) {
-                    Menu {
-                        Picker("", selection: $selectedOption) {
-                            Image(systemName: "clock").tag("PXContentSortingMenuCompactDateAdded")
-                            Image(systemName: "camera").tag("PXContentSortingMenuCompactDateCaptured")
+                    VStack {
+                        Menu {
+                            Picker("", selection: $selectedOption) {
+                                Image(systemName: "clock").tag("PXContentSortingMenuCompactDateAdded")
+                                Image(systemName: "camera").tag("PXContentSortingMenuCompactDateCaptured")
+                            }
+                            .labelsHidden()
+                            .pickerStyle(.segmented)
+                        } label: {
+                            Image(systemName: "ellipsis")
                         }
-                        .labelsHidden()
-                        .pickerStyle(.segmented)
-                    } label: {
-                        Image(systemName: "ellipsis")
+                        .buttonBorderShape(.circle)
                     }
-                    .buttonBorderShape(.circle)
                 }
                 
                 // MARK: Manage button

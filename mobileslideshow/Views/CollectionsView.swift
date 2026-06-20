@@ -6,36 +6,53 @@
 import SwiftUI
 
 struct CollectionsView: View {
-    // Variables
     @State private var showingAccountView = false
     @State private var showingNewFeatures = false
+    private let path = "/System/Library/PrivateFrameworks/PhotosUICore.framework"
+    private let table = "PhotosUICore"
+    private let lemonTable = "LemonadeLocalizable"
     
     var body: some View {
         ZStack(alignment: .topTrailing) {
             NavigationStack {
                 ScrollView {
-                    HStack {
-                        Text("Pinned Collections")
-                            .font(.title)
-                        Button("", systemImage: "chevron.right") {}
-                            .clipShape(Circle())
-                            .scaleEffect(0.75)
-                            .padding(.leading, -10)
-                        Spacer()
-                    }
-                    .padding([.top, .leading], 30)
+                    Spacer(minLength: 75)
                     
                     // Horizontal ScrollView for Pinned Collections
                     ScrollView(.horizontal, showsIndicators: false) {
                         HStack(spacing: -30) {
-                            CollectionsCell(icon: "heart.fill", label: "Favorites")
-                            CollectionsCell(icon: "square.and.arrow.down.badge.clock.fill", label: "Recently Saved")
-                            CollectionsCell(icon: "video.fill", label: "Videos")
-                            CollectionsCell(icon: "camera.viewfinder", label: "Screenshots")
-                            CollectionsCell(icon: "doc.text.fill", label: "Documents")
-                            CollectionsCell(icon: "slider.horizontal.3", label: "Recently Edited")
-                            CollectionsCell(icon: "eye.fill", label: "Recently Viewed")
-                            CollectionsCell(icon: "square.and.arrow.down.fill", label: "Imports")
+                            CollectionsCell(
+                                icon: "heart.fill",
+                                label: "LemonadeFavoritesQuickAccessButtonTitle".localized(path: path, table: lemonTable)
+                            )
+                            CollectionsCell(
+                                icon: "square.and.arrow.down.badge.clock.fill",
+                                label: "PXCollectionRecentlySavedShortTitle".localized(path: path, table: lemonTable)
+                            )
+                            CollectionsCell(
+                                icon: "video.fill",
+                                label: "LemonadeDetailsViewVideosLens".localized(path: path, table: lemonTable)
+                            )
+                            CollectionsCell(
+                                icon: "camera.viewfinder",
+                                label: "LemonadeUtilitiesCategoryScreenshotsTitle".localized(path: path, table: lemonTable)
+                            )
+                            CollectionsCell(
+                                icon: "doc.text.fill",
+                                label: "LemonadeDocumentsQuickAccessButtonTitle".localized(path: path, table: lemonTable)
+                            )
+                            CollectionsCell(
+                                icon: "slider.horizontal.3",
+                                label: "PXCollectionRecentlyEditedTitle".localized(path: path, table: lemonTable)
+                            )
+                            CollectionsCell(
+                                icon: "eye.fill",
+                                label: "PXCollectionRecentlyViewedTitle".localized(path: path, table: lemonTable)
+                            )
+                            CollectionsCell(
+                                icon: "square.and.arrow.down.fill",
+                                label: "LemonadeUtilitiesCategoryImportsTitle".localized(path: path, table: lemonTable)
+                            )
                         }
                     }
                     .ignoresSafeArea()
@@ -43,16 +60,41 @@ struct CollectionsView: View {
                     
                     HStack(spacing: 20) {
                         VStack(spacing: 30) { // Wider left side
-                            CellView(header: "People & Pets", icon: "person.fill", subtitle: "Finding People...", description: "Photos organizes people and pets into albums. Remove your Apple Vision Pro and connect it to power to complete.")
-                            CellView(header: "Memories", icon: "memories", subtitle: "No Memories Available", description: "Memories will appear here when more photos and videos are added to the library.")
-                            CellView(header: "Trips", icon: "suitcase.fill", subtitle: "No Trips Available", description: "Trips will appear here when more photos and videos are added to the library.")
+                            CellView(
+                                header: "PXPeopleTitle".localized(path: path, table: table),
+                                icon: "person.fill",
+                                subtitle: "PXPeopleUpdatingTitle".localized(path: path, table: table),
+                                description: "PXPeopleUpdatingMessage".localized(path: path, table: table)
+                            )
+                            CellView(
+                                header: "PXCollectionMemoriesTitle".localized(path: path, table: table),
+                                icon: "memories",
+                                subtitle: "PXEmptyMemoriesTitle".localized(path: path, table: table),
+                                description: "PXEmptyMemoriesMessage".localized(path: path, table: table)
+                            )
+                            CellView(
+                                header: "LemonadeSearchResultCollectionsGroupTrips".localized(path: path, table: lemonTable),
+                                icon: "suitcase.fill",
+                                subtitle: "LemonadeEmptyTripsTitle".localized(path: path, table: lemonTable),
+                                description: "LemonadeEmptyTripsMessage".localized(path: path, table: lemonTable)
+                            )
                             Spacer()
                         }
                         .frame(width: 700)
                         
                         VStack(spacing: 30) { // Narrower right side
-                            CellView(header: "Featured Spatial Photos", icon: "photo.fill", subtitle: "No Featured Photos Available", description: "Featured Photos will appear when more photos and videos are added to the library, or synced with iCloud.")
-                            CellView(header: "Recent Days", icon: "clock.fill", subtitle: "No Days Available", description: "Days will appear here when more photos and videos are added to the library.")
+                            CellView(
+                                header: "LemonadeFeaturedPhotosSectionHeaderTitleSpatial".localized(path: path, table: lemonTable),
+                                icon: "photo.fill",
+                                subtitle: "LemonadeEmptyFeaturedSpatialPhotosTitle".localized(path: path, table: lemonTable),
+                                description: "LemonadeEmptyFeaturedSpatialPhotosMessage".localized(path: path, table: lemonTable)
+                            )
+                            CellView(
+                                header: "LemonadeEventsFeatureShelfTitle".localized(path: path, table: lemonTable),
+                                icon: "clock.fill",
+                                subtitle: "LemonadeEmptyDaysTitle".localized(path: path, table: lemonTable),
+                                description: "LemonadeEmptyDaysMessage".localized(path: path, table: lemonTable)
+                            )
                             Spacer()
                         }
                     }
@@ -78,7 +120,7 @@ struct CollectionsView: View {
             // MARK: Toolbar Buttons
             HStack {
                 Button {} label: {
-                    Label("Customize", systemImage: "arrow.swap")
+                    Label("Customize", systemImage: "ellipsis")
                         .labelStyle(.iconOnly)
                 }
                 Button {

@@ -22,11 +22,13 @@ struct LibraryView: View {
     let viewOptions: [FilterOption] = [
         .init(name: "Screenshots", icon: "camera.viewfinder")
     ]
+    private let path = "/System/Library/PrivateFrameworks/PhotosUICore.framework"
+    private let table = "PhotosUICore"
     
     var body: some View {
         NavigationStack {
             ZStack {
-                Text("No Photos or Videos")
+                Text("PXLibraryEmptyTitle".localized(path: path, table: table))
                     .font(.title2)
                     .padding(.bottom, 50)
             }
@@ -151,11 +153,11 @@ struct LibraryView: View {
         }
         .ornament(attachmentAnchor: .scene(.bottomFront)) {
             HStack(spacing: 10) {
-                Button("Years") {}
+                Button("PXCuratedLibraryYearsZoomLevelButtonTitle".localized(path: path, table: table)) {}
                     .disabled(true)
-                Button("Months") {}
+                Button("PXCuratedLibraryMonthsZoomLevelButtonTitle".localized(path: path, table: table)) {}
                     .disabled(true)
-                Button("All") {}
+                Button("PXCuratedLibraryAllPhotosZoomLevelButtonShortTitle".localized(path: path, table: table)) {}
             }
             .padding(5)
             .glassBackgroundEffect()

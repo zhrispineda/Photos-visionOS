@@ -14,7 +14,7 @@ struct SearchView: View {
     
     var body: some View {
         NavigationStack {
-            EmptyView()
+            List {}
                 .navigationTitle("SEARCH_SUGGESTION_RECENTS_SECTION_TITLE".localized(path: path, table: table))
                 .searchable(text: .constant(""), placement: .navigationBarDrawer(displayMode: .always))
         }
