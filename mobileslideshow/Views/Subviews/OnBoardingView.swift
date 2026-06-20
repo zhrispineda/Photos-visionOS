@@ -6,64 +6,72 @@
 import SwiftUI
 
 struct OnBoardingView: View {
-    // Variables
     @Environment(\.dismiss) private var dismiss
     
     var body: some View {
         VStack(spacing: 20) {
-            Image("Photos")
-                .resizable()
-                .scaledToFit()
-                .frame(width: 100)
-                .clipShape(Circle())
-            Text("What's New in Photos")
+            ZStack {
+                Group {
+                    Image("AppIcon/Back/Content").resizable()
+                    Image("AppIcon/Middle/Content").resizable()
+                    Image("AppIcon/Front/Content").resizable()
+                }
+            }
+            .scaledToFit()
+            .frame(width: 100)
+            .clipShape(Circle())
+            
+            Text("COLLECTIONS_BUDDY_HEADER", tableName: "Photos")
                 .font(.extraLargeTitle2)
-            HStack {
-                Image(_internalSystemName: "apple.photos")
-                    .font(.largeTitle)
-                    .frame(width: 80)
-                VStack(alignment: .leading) {
-                    Text("All New Photos App")
-                        .fontWeight(.bold)
-                    Text("Customize your library with a new dynamic layout and choose the look that works for you.")
-                        .foregroundStyle(.secondary)
+            
+            Grid(alignment: .leading, horizontalSpacing: 16, verticalSpacing: 16) {
+                GridRow(alignment: .top) {
+                    Image(systemName: "spatial.capture")
+                        .font(.largeTitle)
+                        .fontWeight(.regular)
+                        .frame(width: 64, alignment: .center)
+                    VStack(alignment: .leading) {
+                        Text("COLLECTIONS_BUDDY_BULLETED_ITEM_ONE_TITLE", tableName: "Photos")
+                            .fontWeight(.bold)
+                        Text("COLLECTIONS_BUDDY_BULLETED_ITEM_ONE_BODY", tableName: "Photos")
+                            .foregroundStyle(.secondary)
+                    }
+                    .frame(width: 490, alignment: .leading)
                 }
-                .frame(width: 490)
-            }
-            HStack {
-                Image(systemName: "shareplay")
-                    .font(.largeTitle)
-                    .frame(width: 80)
-                VStack(alignment: .leading) {
-                    Text("SharePlay for Photos")
-                        .fontWeight(.bold)
-                    Text("Use SharePlay to view photos, spatial videos, and immersive panoramas together with others on Apple Vision Pro.")
-                        .foregroundStyle(.secondary)
+                
+                GridRow(alignment: .top) {
+                    Image(systemName: "info.circle")
+                        .font(.largeTitle)
+                        .fontWeight(.regular)
+                        .frame(width: 64, alignment: .center)
+                    VStack(alignment: .leading) {
+                        Text("COLLECTIONS_BUDDY_BULLETED_ITEM_TWO_TITLE", tableName: "Photos")
+                            .fontWeight(.bold)
+                        Text("COLLECTIONS_BUDDY_BULLETED_ITEM_TWO_BODY", tableName: "Photos")
+                            .foregroundStyle(.secondary)
+                    }
+                    .frame(width: 490, alignment: .leading)
                 }
-                .frame(width: 490)
-            }
-            HStack {
-                Image(_internalSystemName: "spatial")
-                    .font(.largeTitle)
-                    .frame(width: 80)
-                VStack(alignment: .leading) {
-                    Text("Create Spatial Photos")
-                        .fontWeight(.bold)
-                    Text("Take your existing photos and transform them into spatial, bringing moments to life with new depth and dimension.")
-                        .foregroundStyle(.secondary)
+                
+                GridRow(alignment: .top) {
+                    Image(systemName: "person.circle")
+                        .font(.largeTitle)
+                        .fontWeight(.regular)
+                        .frame(width: 64, alignment: .center)
+                    VStack(alignment: .leading) {
+                        Text("COLLECTIONS_BUDDY_BULLETED_ITEM_THREE_TITLE", tableName: "Photos")
+                            .fontWeight(.bold)
+                        Text("COLLECTIONS_BUDDY_BULLETED_ITEM_THREE_BODY", tableName: "Photos")
+                            .foregroundStyle(.secondary)
+                    }
+                    .frame(width: 490, alignment: .leading)
                 }
-                .frame(width: 490)
             }
-            Text("Creating spatial photos works best for sharp photos of uncrowded scenes with even lighting and the subject at a medium distance.")
-                .foregroundStyle(.secondary)
-                .font(.footnote)
-                .frame(width: 525, alignment: .center)
-                .multilineTextAlignment(.center)
-                .padding(.top)
+            
             Button {
                 dismiss()
             } label: {
-                Text("Continue")
+                Text("COLLECTIONS_BUDDY_DISMISS_BUTTON_LABEL", tableName: "Photos")
                     .font(.headline)
                     .frame(width: 300, height: 50)
                     .background(Color.blue)

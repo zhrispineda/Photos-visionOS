@@ -6,13 +6,14 @@
 import SwiftUI
 
 struct AccountView: View {
-    // Variables
-    @Environment(\.dismiss) private var dismiss
-    @AppStorage("ShowHiddenAlbum") private var showHiddenAlbum = true
     @AppStorage("AutoPlayMedia") private var autoPlayVideosLivePhotos = true
+    @AppStorage("LoopVideos") private var loopVideos = true
     @AppStorage("ViewHDR") private var viewFullHDR = true
     @AppStorage("ShowFeaturedContent") private var showFeaturedContent = true
     @AppStorage("ShowHolidayEvents") private var showHolidayEvents = true
+    @Environment(\.dismiss) private var dismiss
+    private let path = "/System/Library/PrivateFrameworks/PhotosUICore.framework"
+    private let table = "LemonadeLocalizable"
     
     var body: some View {
         List {
@@ -29,38 +30,54 @@ struct AccountView: View {
             .listRowBackground(Color.clear)
             .listRowSeparator(.hidden)
             
-            Section("Show in Main View") {
-                Toggle("Hidden Album", isOn: $showHiddenAlbum)
+            Section("LemonadeSettingTurboSyncSectionTitle".localized(path: path, table: table)) {
+                NavigationLink {} label: {
+                    LabeledContent {
+                        Text("LemonadeSettingTurboSyncOff".localized(path: path, table: table)).foregroundStyle(.tertiary)
+                    } label: {
+                        Text("LemonadeSettingTurboSyncTitle".localized(path: path, table: table))
+                    }
+                }
             }
             
             Section {
-                Toggle("Auto-Play Videos and Live Photos", isOn: $autoPlayVideosLivePhotos)
-                Toggle("View Full HDR", isOn: $viewFullHDR)
+                Toggle("LemonadeSettingAutoplayTitle".localized(path: path, table: table), isOn: $autoPlayVideosLivePhotos)
+                Toggle("LemonadeSettingAutoloopVideoTitle".localized(path: path, table: table), isOn: $loopVideos)
+                Toggle("LemonadeSettingViewFullHDRTitle".localized(path: path, table: table), isOn: $viewFullHDR)
             } header: {
-                Text("View Options")
+                Text("View Options".localized(path: path, table: table))
             } footer: {
-                Text("Automatically adjust the display to show the complete dynamic range of photos (HDR).")
+                Text("LemonadeSettingViewFullHDRDescription".localized(path: path, table: table))
             }
             
             Section {
-                Toggle("Show Featured Content", isOn: $showFeaturedContent)
+                Toggle("LemonadeSettingShowFeaturedContentTitle".localized(path: path, table: table), isOn: $showFeaturedContent)
             } header: {
-                Text("Featured")
+                Text("LemonadeSettingFeaturedSectionTitle".localized(path: path, table: table))
             } footer: {
-                Text("Allow Featured Photos and Memories to automatically appear on this device.")
+                Text("LemonadeSettingShowFeaturedContentDescription".localized(path: path, table: table))
             }
             
             Section {
-                Toggle("Show Holiday Events", isOn: $showHolidayEvents)
+                Toggle(
+                    "LemonadeSettingShowHolidayEventsTitle".localized(path: path, table: table),
+                    isOn: $showHolidayEvents)
             } footer: {
-                Text("You can choose to see timely holiday events and those for your home country or region.")
+                Text(
+                    "LemonadeSettingShowHolidayEventsDescription".localized(path: path, table: table)
+                )
             }
             
             Section {
-                Button("Reset Suggested Memories") {}
-                Button("Reset People & Pets Suggestions") {}
+                Button("LemonadeSettingResetSuggestedMemoriesButtonTitle".localized(
+                    path: path,
+                    table: table)) {}
+                Button("LemonadeSettingResetPeopleSuggestionsButtonTitle".localized(
+                    path: path, table: table)) {}
             } footer: {
-                Text("If you choose to Feature Less of certain Memories or People, you can reset in order for them to be suggested again.")
+                Text("LemonadeSettingResetDescription".localized(
+                    path: path, table: table)
+                )
             }
         }
         .toolbar {
