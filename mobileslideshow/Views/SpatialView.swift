@@ -6,27 +6,9 @@
 import SwiftUI
 
 struct SpatialView: View {
-    // Variables
-    @State private var selectedOption = "All Items"
+    @State private var selectedOption = "PXContentSortingMenuCompactDateAdded"
     @State private var showingAccountView = false
     @State private var showingPopup = true
-    
-    struct FilterOption: Hashable, Identifiable {
-        var id: String { name }
-        var name: String
-        var icon: String
-    }
-    
-    let includeOptions: [FilterOption] = [
-        .init(name: "All Items", icon: "photo.on.rectangle")
-    ]
-    
-    let onlyShowOptions: [FilterOption] = [
-        .init(name: "Favorites", icon: "heart"),
-        .init(name: "Edited", icon: "slider.horizontal.3"),
-        .init(name: "Photos", icon: "photo"),
-        .init(name: "Videos", icon: "video")
-    ]
     
     var body: some View {
         NavigationStack {
@@ -49,7 +31,7 @@ struct SpatialView: View {
                         }
                     }
                     
-                    Text("Immerse in Spatial Photos and Videos")
+                    Text("SPATIAL_BUDDY_HEADER", tableName: "Photos")
                         .font(.largeTitle)
                         .multilineTextAlignment(.center)
                         .frame(maxWidth: 300)
@@ -62,8 +44,8 @@ struct SpatialView: View {
                             .scaledToFill()
                         Button {} label: {
                             HStack {
-                                Image(_internalSystemName: "inset.filled.pano")
-                                Text("Try Immersive")
+                                Image(systemName: "inset.filled.pano")
+                                Text("BUDDY_IMMERSE_BUTTON_LABEL", tableName: "Photos")
                             }
                         }
                         .offset(y: 130)
@@ -75,7 +57,7 @@ struct SpatialView: View {
                         .font(.largeTitle)
                         .fontWeight(.light)
                         .padding(.top)
-                    Text("Press the top button to start capturing")
+                    Text("SPATIAL_BUDDY_FOOTER", tableName: "Photos")
                         .fontWeight(.bold)
                         .padding(.bottom)
                         .font(.callout)
@@ -83,93 +65,19 @@ struct SpatialView: View {
                 .padding()
             }
             .toolbar {
-                if selectedOption != "All Items" {
-                    // MARK: Filter button
-                    ToolbarItem(placement: .topBarTrailing) {
-                        Menu {
-                            Section {
-                                Picker("Include", selection: $selectedOption) {
-                                    ForEach(includeOptions) { option in
-                                        HStack {
-                                            Text(option.name)
-                                            Spacer()
-                                            Image(systemName: option.icon)
-                                        }
-                                    }
-                                }
-                                .labelsVisibility(.visible)
-                            }
-                            
-                            Section {
-                                Picker("Only Show", selection: $selectedOption) {
-                                    ForEach(onlyShowOptions) { option in
-                                        HStack {
-                                            Text(option.name)
-                                            Spacer()
-                                            Image(systemName: option.icon)
-                                        }
-                                    }
-                                }
-                                .labelsVisibility(.visible)
-                            } header: {
-                                Text("Only Show")
-                            }
-                        } label: {
-                            Label {} icon: {
-                                Image(systemName: "line.3.horizontal.decrease")
-                            }
-                        }
-                    }
-                }
-                
                 // MARK: Sort button
                 ToolbarItem(placement: .topBarTrailing) {
                     Menu {
-                        Section {
-                            Button("Sort by Recently Added") {}
-                            Button("Sort by Date Added") {}
+                        Picker("", selection: $selectedOption) {
+                            Image(systemName: "clock").tag("PXContentSortingMenuCompactDateAdded")
+                            Image(systemName: "camera").tag("PXContentSortingMenuCompactDateCaptured")
                         }
-                        
-                        Section {
-                            Menu {
-                                Section {
-                                    Picker("Include", selection: $selectedOption) {
-                                        ForEach(includeOptions) { option in
-                                            HStack {
-                                                Text(option.name)
-                                                Spacer()
-                                                Image(systemName: option.icon)
-                                            }
-                                        }
-                                    }
-                                    .labelsVisibility(.visible)
-                                }
-                                
-                                Section {
-                                    Picker("Only Show", selection: $selectedOption) {
-                                        ForEach(onlyShowOptions) { option in
-                                            HStack {
-                                                Text(option.name)
-                                                Spacer()
-                                                Image(systemName: option.icon)
-                                            }
-                                        }
-                                    }
-                                    .labelsVisibility(.visible)
-                                } header: {
-                                    Text("Only Show")
-                                }
-                            } label: {
-                                Label("Filter", systemImage: "line.3.horizontal.decrease.circle")
-                            }
-                        }
+                        .labelsHidden()
+                        .pickerStyle(.segmented)
                     } label: {
-                        Label {
-                            Text("Sort")
-                        } icon: {
-                            Image(_internalSystemName: "arrow.trianglehead.up.arrow.trianglehead.down")
-                        }
+                        Image(systemName: "ellipsis")
                     }
+                    .buttonBorderShape(.circle)
                 }
                 
                 // MARK: Manage button
