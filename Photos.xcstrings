@@ -1,0 +1,7012 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "EMPTY_LIBRARY_MESSAGE_SPATIAL": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "يمكنك التقاط صور وفيديوهات مكانية بالضغط على الزر العلوي وفتح \"الالتقاط\".",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Du kannst räumliche Fotos und Videos aufnehmen, indem du auf die obere Taste drückst oder „Aufnahme“ öffnest.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "You can take spatial photos and videos by pressing the top button, or opening Capture.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "You can take spatial photos and videos by pressing the top button or opening Capture.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "You can take spatial photos and videos by pressing the top button, or opening Capture.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "You can take spatial photos and videos by pressing the top button or opening Capture.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "You can take spatial photos and videos by pressing the top button, or opening Capture.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Puedes hacer fotos y vídeos espaciales pulsando el botón superior o con la app Captura.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Puedes tomar fotos o videos al presionar el botón superior o abrir Captura.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Puedes tomar fotos o videos al presionar el botón superior o abrir Captura.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Vous pouvez prendre des photos et des vidéos spatiales en appuyant sur le bouton supérieur ou en ouvrant Capture.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Vous pouvez prendre des photos et des vidéos spatiales en appuyant sur le bouton supérieur ou en ouvrant Capture.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Puoi scattare foto e video spaziali premendo il tasto superiore o aprendo l’app Capture.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "トップボタンを押すか、キャプチャを開くと、空間写真や空間ビデオを撮影できます。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "상단 버튼을 누르거나, 캡처 앱을 열어서 공간 사진 및 비디오를 찍을 수 있습니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "按下顶部按钮或打开“拍摄”即可拍摄空间照片和视频。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "透過按下頂端按鈕或開啟「拍攝」，以拍攝空間相片和影片。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "你可以按下頂端按鈕或打開「拍攝」來拍攝空間照片和影片。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLECTIONS_BUDDY_BULLETED_ITEM_TWO_BODY": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "لوحة المعلومات تتضمن ميزات مألوفة مثل البحث العام المرئي والتعليقات المصاحبة ومعلومات الكاميرا.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Das Infofenster verfügt über vertraute Funktionen wie „Visuelles Nachschlagen“, „Untertitel“ und Kamerainformationen.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "The info panel has familiar features like Visual Look Up, captions, and camera information.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "The info panel has familiar features like Visual Look Up, captions and camera information.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "The info panel has familiar features like Visual Look Up, captions, and camera information.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "The info panel has familiar features like Visual Look Up, captions and camera information.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "The info panel has familiar features like Visual Look Up, captions, and camera information.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "El panel de información incluye funciones conocidas como el buscador visual, los subtítulos y la información de la cámara.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "El panel de información incluye funciones conocidas como la consulta visual, los pies de foto y la información de la cámara.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "El panel de información incluye funciones conocidas como la consulta visual, los pies de foto y la información de la cámara.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Le panneau d’informations intègre des fonctionnalités courantes telles que la recherche visuelle, les légendes et les informations sur la caméra.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Le panneau d’informations comporte des fonctionnalités familières telles que la recherche visuelle, les légendes et les informations sur la caméra.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Il pannello informativo include funzionalità familiari come la ricerca visiva, le didascalie e le informazioni sulla fotocamera.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "情報パネルに、“画像を調べる”、キャプション、カメラ情報などのおなじみの機能が表示されます。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "정보 패널에는 시각 정보 찾아보기, 캡션 및 카메라 정보와 같이 익숙한 기능이 있습니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "信息面板包含熟悉的功能，如看图查询、说明和相机信息。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "資料面板包括熟悉的功能，例如「圖像查詢」、説明和相機資料。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "資訊面板有熟悉的功能，例如「圖像查詢」、字幕和相機資訊。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PANO_BUDDY_FOOTER": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "استخدم iPhone أو iPad للالتقاط صور بانوراما",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "iPhone oder iPad für Panoramaaufnahmen verwenden",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Use iPhone or iPad to take Panoramas",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Use iPhone or iPad to take Panoramas",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Use iPhone or iPad to take Panoramas",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Use iPhone or iPad to take Panoramas",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Use iPhone or iPad to take Panoramas",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Usa el iPhone o el iPad para hacer fotos panorámicas.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Usa tu iPhone o iPad para tomar fotos panorámicas.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Usa tu iPhone o iPad para tomar fotos panorámicas.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Utilisez votre iPhone ou votre iPad pour prendre des photos panoramiques.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Utilisez votre iPhone ou votre iPad pour prendre des photos panoramiques.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Usa iPhone o iPad per scattare foto panoramiche",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "パノラマ撮影するにはiPhoneまたはiPadを使用します",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "iPhone 또는 iPad를 사용하여 파노라마 사진을 찍습니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "使用iPhone或iPad拍摄全景照片",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "使用iPhone或iPad拍攝「全景」",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "使用iPhone或iPad來拍攝全景",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "CLEAR_RECENTS_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "مسح",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Entfernen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Clear",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Clear",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Clear",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Clear",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Clear",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Borrar",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Borrar",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Borrar",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Effacer",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Effacer",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Cancella",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "消去",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "지우기",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "清除",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "清除",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "清除",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "BUDDY_IMMERSE_BUTTON_LABEL": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "جرِّب النمط الغامر",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Immersiv testen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Try Immersive",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Try Immersive",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Try Immersive",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Try Immersive",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Try Immersive",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Probar modo inmersivo",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Probar modo inmersivo",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Probar modo inmersivo",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Essayer en mode immersif",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Essayer en mode immersif",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Prova la modalità immersiva",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "イマーシブを試す",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "몰입형 체험",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "尝试沉浸式版本",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "嘗試沉浸式體驗",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "嘗試沉浸式版本",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PLACES": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الأماكن",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Orte",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Places",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Places",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Places",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Places",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Places",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Lugares",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Lugares",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Lugares",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Lieux",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Lieux",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Luoghi",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "撮影地",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "장소",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "地点",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "地點",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "地點",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLAPSE_BUTTON_HINT": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "تحديد للخروج من العرض الغامر",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Zum Beenden der immersiven Ansicht auswählen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Select to exit immersive view",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Select to exit immersive view",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Select to exit immersive view",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Select to exit immersive view",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Select to exit immersive view",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Salir de la vista inmersiva",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Selecciona para salir de la vista inmersiva",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Selecciona para salir de la vista inmersiva",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Sélectionnez ce bouton pour quitter la vue immersive.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Sélectionnez ce bouton pour quitter la vue immersive.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Seleziona per uscire dalla vista immersiva",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "選択してイマーシブビューを終了します",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "선택하면 몰입형 뷰에서 나갑니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "选择以退出沉浸视图",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "選擇以退出沉浸顯示方式",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "選取來退出沉浸式畫面",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_SETUP_STAGE_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "يرجى إجراء مسح ضوئي للرمز على iPhone لنقل المحتوى المحدد إلى هذا الجهاز.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Scanne den Code auf deinem iPhone, um Inhalte auf dieses Gerät zu übertragen.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Scan the code on your iPhone to transfer content to this device.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Scan the code on your iPhone to transfer content to this device.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Scan the code on your iPhone to transfer content to this device.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Scan the code on your iPhone to transfer content to this device.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Scan the code on your iPhone to transfer content to this device.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Escanea el código con el iPhone para transferir contenido a este dispositivo.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Escanea el código de tu iPhone para transferir contenido a este dispositivo.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Escanea el código de tu iPhone para transferir contenido a este dispositivo.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Scannez le code sur votre iPhone pour transférer le contenu vers cet appareil.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Balayez le code sur votre iPhone pour transférer le contenu à cet appareil.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Per trasferire contenuti su questo dispositivo, scansiona il codice su iPhone.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "コンテンツをこのデバイスに転送するには、iPhoneのコードをスキャンしてください。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "콘텐츠를 이 기기로 전송하려면 iPhone의 코드를 스캔하십시오.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "扫描iPhone上的代码将内容传输到此设备。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "掃描你iPhone上的代碼以轉移內容至此裝置。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "掃描iPhone上的代碼來將內容移轉到此裝置。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "EMPTY_LIBRARY_MESSAGE_PANORAMA": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "يمكنك التقاط صور بانوراما باستخدام iPhone أو iPad.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Du kannst Panoramafotos mit dem iPhone oder iPad aufnehmen.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "You can take panorama photos using iPhone or iPad.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "You can take panorama photos using iPhone or iPad.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "You can take panorama photos using iPhone or iPad.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "You can take panorama photos using iPhone or iPad.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "You can take panorama photos using iPhone or iPad.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Puedes hacer fotos panorámicas con el iPhone o el iPad.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Puedes tomar fotos panorámicas usando un iPhone o iPad.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Puedes tomar fotos panorámicas usando un iPhone o iPad.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Vous pouvez prendre des photos panoramiques avec l’iPhone ou l’iPad.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Vous pouvez prendre des photos panoramiques avec l’iPhone ou l’iPad.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Puoi scattare foto panoramiche usando iPhone o iPad.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "iPhoneやiPadを使ってパノラマ写真を撮影できます。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "iPhone 또는 iPad를 사용하여 파노라마 사진을 찍을 수 있습니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "你可以使用iPhone或iPad拍摄全景照片。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "你可以使用iPhone或iPad拍攝全景相片。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "你可以使用iPhone或iPad拍攝全景照片。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_FINISH_STAGE_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "تم حذف المحتوى من هذا الجهاز.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Deine Inhalte wurden von diesem Gerät gelöscht.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Your content has been deleted from this device.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Your content has been deleted from this device.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Your content has been deleted from this device.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Your content has been deleted from this device.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Your content has been deleted from this device.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Se ha eliminado tu contenido de este dispositivo.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Se eliminó tu contenido de este dispositivo.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Se eliminó tu contenido de este dispositivo.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Votre contenu a été supprimé de cet appareil.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Votre contenu a été supprimé de cet appareil.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "I contenuti sono stati eliminati da questo dispositivo.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "コンテンツはこのデバイスから削除されました。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "사용자의 콘텐츠가 이 기기에서 삭제되었습니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "你的内容已从此设备删除。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "已從此裝置刪除你的內容。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "已從此裝置中刪除你的內容。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "ALERT_IMMERSE_NOT_AVAILABLE_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "العرض الغامر غير متاح",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Immersive Ansicht nicht verfügbar",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Immersive View Unavailable",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Immersive View Unavailable",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Immersive View Unavailable",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Immersive View Unavailable",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Immersive View Unavailable",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Vista inmersiva no disponible",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Vista inmersiva no disponible",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Vista inmersiva no disponible",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Vue immersive non disponible",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Vue immersive non disponible",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Vista immersiva non disponibile",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "イマーシブビューは使用できません",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "몰입형 뷰를 사용할 수 없음",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "沉浸视图不可用",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "無法使用沉浸式視野",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "無法使用沉浸式畫面",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "EMPTY_LIBRARY_TITLE_SPATIAL": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "لا توجد صور أو فيديوهات مكانية",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Keine räumlichen Fotos oder Videos",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "No Spatial Photos or Videos",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "No Spatial Photos or Videos",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "No Spatial Photos or Videos",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "No Spatial Photos or Videos",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "No Spatial Photos or Videos",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "No hay fotos ni vídeos espaciales",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Sin fotos ni videos espaciales",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Sin fotos ni videos espaciales",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Aucune photo ou vidéo spatiale",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Aucune photo ou vidéo spatiale",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Nessuna foto o video spaziale",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "空間写真または空間ビデオなし",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "공간 사진 또는 비디오 없음",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "无空间照片或视频",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "沒有空間相片或影片",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "無空間照片或影片",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "EXPAND_BUTTON_HINT": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "تحديد لدخول العرض الغامر",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Zum Starten der immersiven Ansicht auswählen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Select to enter immersive view",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Select to enter immersive view",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Select to enter immersive view",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Select to enter immersive view",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Select to enter immersive view",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Activar la vista inmersiva",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Selecciona para entrar a la vista inmersiva",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Selecciona para entrar a la vista inmersiva",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Sélectionnez ce bouton pour activer la vue immersive.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Sélectionnez ce bouton pour activer la vue immersive.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Seleziona per entrare nella vista immersiva",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "選択してイマーシブビューを開始します",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "선택하면 몰입형 뷰로 들어갑니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "选择以进入沉浸视图",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "選擇以進入沉浸顯示方式",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "選取來進入沉浸式畫面",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PXSharedLibrary_EmptyAlbum_Message_Apple Vision": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "يمكن تبديل طريقة عرض المكتبة إلى \"مكتبتك\" لعرض الصور والفيديوهات في هذا الألبوم",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Wechsle die Mediathekansicht zu „Deine Mediathek“, um Fotos und Videos in diesem Album anzuzeigen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Switch your library view to Your Library to view photos and videos in this album",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Switch your library view to Your Library to view photos and videos in this album",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Switch your library view to Your Library to view photos and videos in this album",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Switch your library view to Your Library to view photos and videos in this album",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Switch your library view to Your Library to view photos and videos in this album",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Para ver las fotos y los vídeos de este álbum, cambia a la vista de tu fototeca.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Cambia la vista de la fototeca a tu fototeca para ver fotos y videos de este álbum.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Cambia la vista de la fototeca a tu fototeca para ver fotos y videos de este álbum.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Basculez la vue de votre photothèque sur « Votre photothèque » pour afficher les photos et les vidéos de cet album.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Choisissez la présentation « Votre photothèque » pour afficher les photos et les vidéos de cet album.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Per visualizzare le foto e i video nell’album, passa alla vista “La tua libreria”.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "このアルバムで写真とビデオを表示するには、ライブラリ表示を個人用ライブラリに切り替えてください",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "보관함 보기를 사용자의 보관함으로 전환하여 이 앨범 내의 사진 및 비디오를 봅니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "将图库视图切换至“你的图库”以查看此相簿中的照片和视频",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "將圖庫顯示方式切換至「你的圖庫」以查看此相簿中的相片和影片",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "將圖庫顯示方式切換至「你的圖庫」來檢視此相簿中的照片和影片",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLECTIONS_BUDDY_BULLETED_ITEM_TWO_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "المزيد من معلومات الصور",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Weitere Infos zu Fotos",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "More Info on Photos",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "More Info on Photos",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "More Info on Photos",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "More Info on Photos",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "More Info on Photos",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Más información en la app Fotos",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Más información en la app Fotos",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Más información en la app Fotos",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Plus d’informations sur les photos",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "En savoir plus sur Photos",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Ulteriori informazioni sulle foto",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "“写真”の“詳しい情報”",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "사진에 관한 추가 정보",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "照片包含更多信息",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "「相片」提供更多資料",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "「照片」的更多資訊",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLECTIONS_BUDDY_DISMISS_BUTTON_LABEL": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "متابعة",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Fortfahren",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Continue",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Continue",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Continue",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Continue",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Continue",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Continuar",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Continuar",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Continuar",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Continuer",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Continuer",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Continua",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "続ける",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "계속",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "继续",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "繼續",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "繼續",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "SEARCH_RESULTS_COUNT_PLURAL": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "%d صورة",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "%d Fotos",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "%d Photos",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "%d Photos",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "%d Photos",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "%d Photos",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "%d Photos",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "%d fotos",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "%d fotos",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "%d fotos",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "%d photos",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "%d photos",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "%d foto",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "%d枚の写真",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "%d장의 사진",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "%d张照片",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "%d張相片",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "%d張照片",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLECTIONS_BUDDY_BULLETED_ITEM_ONE_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "استكشاف المشاهد المكانية",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Räumliche Szenen erkunden",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Explore Spatial Scenes",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Explore Spatial Scenes",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Explore Spatial Scenes",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Explore Spatial Scenes",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Explore Spatial Scenes",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Explora las escenas espaciales",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Explora las escenas espaciales",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Explora las escenas espaciales",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Explorez des scènes spatiales",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Explorer des scènes spatiales",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Esplora le scene spaziali",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "空間シーンを体験",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "공간 장면 살펴보기",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "探索空间场景",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "探索空間場景",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "探索空間場景",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PXSharedLibrary_EmptyAllAlbums_Message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "لا توجد ألبومات في \"المكتبة المشتركة، بدِّل إلى \"مكتبتك\" لعرض الألبومات الموجودة",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Keine Alben in der geteilten Mediathek; wechsle zu „Deine Mediathek“, um bestehende Alben zu sehen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "No Albums in your Shared Library, switch to Your Library to view existing ones",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "No Albums in your Shared Library; switch to Your Library to view existing ones",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "No Albums in your Shared Library, switch to Your Library to view existing ones",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "No Albums in your Shared Library; switch to Your Library to view existing ones",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "No Albums in your Shared Library, switch to Your Library to view existing ones",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "No hay álbumes en tu fototeca compartida. Para ver los tuyos, cambia a la vista de tu fototeca.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "No tienes álbumes en tu fototeca compartida. Cambia a la tuya para ver los existentes.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "No tienes álbumes en tu fototeca compartida. Cambia a la tuya para ver los existentes.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Il n’y a aucun album dans votre photothèque partagée. Basculez vers « Votre photothèque » pour afficher les albums existants.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Il n’y a aucun album dans votre photothèque partagée. Sélectionnez votre photothèque pour afficher les albums existants.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Non ci sono album nella libreria condivisa. Passa alla tua libreria personale per visualizzare quelli esistenti.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "共有ライブラリにはアルバムはありません。既存のものを表示するには個人用ライブラリに切り替えてください",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "공유 보관함에 앨범이 없습니다. 기존 항목을 보려면 사용자의 보관함으로 전환하십시오.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "共享图库中没有相簿，切换至个人图库查看现有内容",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "「共享圖庫」中沒有相簿，切換至「你的圖庫」查看現有內容",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "「共享的圖庫」中沒有相簿，切換成「你的圖庫」來檢視現有的相簿",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PANO_BUDDY_HEADER": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الاستمتاع بالبانوراما بطريقة جديدة",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Panoramen auf neue Art erleben",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Experience Panoramas in a New Way",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Experience Panoramas in a New Way",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Experience Panoramas in a New Way",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Experience Panoramas in a New Way",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Experience Panoramas in a New Way",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Una nueva manera de revivir tus panorámicas",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Disfruta de una nueva experiencia con fotos panorámicas",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Disfruta de una nueva experiencia con fotos panorámicas",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Découvrez une nouvelle façon de prendre des photos panoramiques.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Découvrez une nouvelle façon de prendre des photos panoramiques.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Scopri i panorami da un’altra prospettiva",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "新しい方法でパノラマを体験",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "새로운 방식으로 파노라마 경험하기",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "以全新方式体验全景照片",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "以全新方式體驗「全景」",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "以全新方式體驗全景照片",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLECTIONS_BUDDY_BULLETED_ITEM_ONE_BODY": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "خوارزمية ذكاء اصطناعي جديدة تتيح لك عرض صورك كمشاهد حقيقية من خلال مناظير متعددة.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Ein neuer KI-Algorithmus ermöglicht es dir, deine Fotos als realistische Szenen mit mehreren Perspektiven anzuzeigen.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "A new AI algorithm lets you view your photos as realistic scenes with multiple perspectives.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "A new AI algorithm lets you view your photos as realistic scenes with multiple perspectives.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "A new AI algorithm lets you view your photos as realistic scenes with multiple perspectives.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "A new AI algorithm lets you view your photos as realistic scenes from multiple perspectives.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "A new AI algorithm lets you view your photos as realistic scenes with multiple perspectives.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Un nuevo algoritmo de IA te permite ver tus fotos como escenas realistas con múltiples perspectivas.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Un nuevo algoritmo de IA te permite ver tus fotos como escenas realistas con múltiples perspectivas.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Un nuevo algoritmo de IA te permite ver tus fotos como escenas realistas con múltiples perspectivas.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Un nouvel algorithme d’IA vous permet de visualiser vos photos sous forme de scènes réalistes avec plusieurs perspectives.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Un nouvel algorithme d’IA vous permet de visualiser vos photos sous forme de scènes réalistes avec plusieurs perspectives.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Un nuovo algoritmo di IA ti consente di visualizzare le foto come scenari realistici con varie prospettive.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "新しいAIアルゴリズムにより、写真が複数の視点で楽しめるリアルなシーンになります。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "새로운 AI 알고리즘을 통해 다양한 시점에서 실제 장면처럼 표현된 사진을 감상할 수 있습니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "全新AI算法可让你通过逼真场景多视角查看照片。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "全新的AI演算法讓你可以像真實場景一樣以多種視角查看相片。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "新的AI演算法讓你可以像真實場景一樣從多種視角查看照片。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_APPCLIPCODE_SCANNING_HINT": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "اسحب الشبكة أعلى الرمز",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Rahmen auf den Code ziehen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Drag the reticle on top of the code",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Drag the reticle on top of the code",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Drag the reticle on top of the code",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Drag the reticle on top of the code",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Drag the reticle on top of the code",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Arrastra la retícula encima del código.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Arrastra la retícula sobre el código.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Arrastra la retícula sobre el código.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Placez le cadre sur le code.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Faites glisser le réticule sur le code.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Trascina il reticolo sul codice",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "白い枠をコードの上にドラッグします",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "사각형 초점을 코드 위로 드래그하여 놓으십시오.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "将取景框拖移至代码处",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "拖移代碼頂端的標線",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "將瞄準器拖移到代碼上方",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "SPATIAL_BUDDY_HEADER": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الانغمار في الصور\nوالفيديوهات المكانية",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Immersion in räumlichen\nFotos und Videos",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Immerse in Spatial\nPhotos and Videos",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Immerse in Spatial\nPhotos and Videos",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Immerse in Spatial\nPhotos and Videos",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Immerse in Spatial\nPhotos and Videos",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Immerse in Spatial\nPhotos and Videos",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Sumérgete en tus\nfotos y vídeos espaciales",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Sumérgete en tus fotos y videos espaciales",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Sumérgete en tus fotos y videos espaciales",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Plongez-vous dans vos photos\net vidéos en mode Spatial",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Plongez-vous dans vos photos\net vidéos en mode Spatial",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Immergiti nelle foto\ne nei video spaziali",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "写真とビデオで\nイマーシブ体験",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "공간 사진 및 비디오로\n몰입감 넘치는 경험 즐기기",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "沉浸感受\n空间照片和视频",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "沉浸在空間\n相片和影片中",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "沉浸於空間照片\n和影片之中",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "MAP": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "خريطة",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Karte",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Map",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Map",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Map",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Map",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Map",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Mapa",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Mapa",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Mapa",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Plan",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Plan",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Mappa",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "マップ",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "지도",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "地图",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "地圖",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "地圖",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "UNTITLED": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "بلا عنوان",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Ohne Titel",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Untitled",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Untitled",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Untitled",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Untitled",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Untitled",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Sin título",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Sin título",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Sin título",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Sans nom",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Sans titre",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Senza nome",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "名称未設定",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "제목 없음",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "无标题",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "未命名",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "未命名",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PUONEUP_QUICK_ACTION_ENTER_IMMERSIVE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الدخول في النمط الغامر",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Immersiven Modus starten",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Enter Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Enter Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Enter Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Enter Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Enter Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Activar el modo inmersivo",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Entrar al modo inmersivo",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Entrar al modo inmersivo",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Passer au mode Immersif",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Activer le mode Immersif",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Entra in modalità immersiva",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "イマーシブモードを開始",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "몰입형 모드 시작",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "进入沉浸模式",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "進入沉浸模式",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "進入沉浸模式",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PHOTOS": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الصور",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Fotos",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Photos",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Photos",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Photos",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Photos",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Photos",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Fotos",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Fotos",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Fotos",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Photos",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Photos",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Foto",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "写真",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "사진",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "照片",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "相片",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "照片",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "LIBRARY_TAB_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "مكتبة",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Mediathek",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Library",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Library",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Library",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Library",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Library",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Fototeca",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Fototeca",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Fototeca",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Photothèque",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Photothèque",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Libreria",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "ライブラリ",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "보관함",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "图库",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "圖庫",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "圖庫",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PUONEUP_QUICK_ACTION_OPEN_TRIM": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "فتح القص",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "„Trimmen“ öffnen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Open Trim",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Open Trim",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Open Trim",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Open Trim",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Open Trim",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Abrir herramienta de acortar",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Abrir herramienta de recortar",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Abrir herramienta de recortar",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Ouvrir l’élagage",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Ouvrir la fonctionnalité Raccourcir",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Apri Ritaglia",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "トリミングを開く",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "다듬기 열기",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "打开剪裁",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "開啟裁剪",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "打開裁剪",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "ALERT_IMMERSE_NOT_AVAILABLE_MESSAGE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "توسيع هذه الصورة أو الفيديو غير متوفر حاليًا.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Dieses Foto oder Video kann derzeit nicht erweitert werden.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Expanding this photo or video is not available at the moment.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Expanding this photo or video is not available at the moment.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Expanding this photo or video is not available at the moment.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Expanding this photo or video is not available at the moment.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Expanding this photo or video is not available at the moment.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "En este momento no se puede expandir esta foto o vídeo.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "La ampliación de esta foto o video está disponible por ahora.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "La ampliación de esta foto o video está disponible por ahora.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "L’agrandissement de cette photo ou de cette vidéo n’est pas disponible pour le moment.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "L’agrandissement de cette photo ou de cette vidéo n’est pas disponible pour le moment.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Al momento non è possibile espandere questo elemento.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "現在、この写真やビデオを拡げることはできません。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "현재 이 사진 또는 비디오를 확장할 수 없습니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "展开此照片或视频功能目前不可用。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "現時無法展開此相片或影片。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "目前無法展開此照片或影片。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "ALL_MEDIA_TYPES_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "جميع أنواع الوسائط",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Alle Medienarten",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "All Media Types",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "All Media Types",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "All Media Types",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "All Media Types",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "All Media Types",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Todos los tipos de contenido",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Todos los tipos de contenido",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Todos los tipos de contenido",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Tous les types de média",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Tous les types de média",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Tutti i tipi di file multimediale",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "すべてのメディアタイプ",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "모든 미디어 유형",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "所有媒体类型",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "所有媒體類型",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "所有媒體類型",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_SCAN_BUTTON_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "بدء المسح",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Scannen beginnen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Start Scanning",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Start Scanning",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Start Scanning",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Start Scanning",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Start Scanning",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Iniciar exploración",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Iniciar la exploración",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Iniciar la exploración",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Lancer le curseur",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Commencer l’analyse",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Avvia scansione",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "ハイライトを開始",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "스캔 시작",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "开始扫描",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "開始掃描",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "開始掃描",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_ALBUM_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "تجربة الصور في المتجر",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Fotoerlebnis im Store",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Photos Retail Experience",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Photos Retail Experience",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Photos Retail Experience",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Photos Retail Experience",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Photos Retail Experience",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Demostración de la app Fotos en tienda",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Experiencia de Fotos en tienda",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Experiencia de Fotos en tienda",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Expérience Photos en boutique",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Démonstration de l’app Photos en magasin",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Sperimenta l’app Foto negli Store",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "店舗での“写真”の体験",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "매장에서 사진 체험",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "零售店照片体验",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "相片零售體驗",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "照片店內體驗",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "ALBUMS": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الألبومات",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Alben",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Albums",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Albums",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Albums",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Albums",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Albums",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Álbumes",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Álbumes",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Álbumes",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Albums",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Albums",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Album",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "アルバム",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "앨범",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "专辑",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "相簿",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "相簿",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "EVENTS": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الأحداث",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Ereignisse",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Events",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Events",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Events",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Events",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Events",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Eventos",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Eventos",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Eventos",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Évènements",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Événements",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Eventi",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "イベント",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "이벤트",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "事件",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "事件",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "事件",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "MORE_BUTTON_LABEL": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "المزيد",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Mehr",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "More",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "More",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "More",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "More",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "More",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Más",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Más",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Más",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Plus",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Plus",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Altro",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "その他",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "더 보기",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "更多",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "更多",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "更多",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "SPATIAL_BUDDY_FOOTER": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "اضغط على الزر العلوي لبدء الالتقاط",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Zum Starten der Aufnahme obere Taste drücken",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Press the top button to start capturing",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Press the top button to start capturing",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Press the top button to start capturing",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Press the top button to start capturing",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Press the top button to start capturing",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Pulsa el botón superior para iniciar la captura.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Presiona el botón superior para comenzar a capturar.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Presiona el botón superior para comenzar a capturar.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Appuyez sur le bouton supérieur pour commencer la capture.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Appuyez sur le bouton supérieur pour commencer la capture.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Premi il tasto superiore per iniziare ad acquisire.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "トップボタンを押して撮影を開始します",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "캡처를 시작하려면 상단 버튼을 누르십시오.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "按下顶部按钮开始拍摄",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "按下頂端按鈕以開始拍攝",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "按下頂端按鈕來開始拍攝",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_END_DEMO_ALERT_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "سيؤدي إنهاء الجلسة إلى حذف المحتوى من هذا الجهاز.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Beim Beenden der Sitzung werden deine Inhalte von diesem Gerät gelöscht.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Ending the session will delete your content from this device.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Ending the session will delete your content from this device.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Ending the session will delete your content from this device.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Ending the session will delete your content from this device.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Ending the session will delete your content from this device.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Al finalizar la sesión, se eliminará tu contenido de este dispositivo.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Finalizar la sesión eliminará tu contenido de este dispositivo.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Finalizar la sesión eliminará tu contenido de este dispositivo.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Si vous arrêtez la session, votre contenu sera supprimé de cet appareil.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Terminer la session supprimera votre contenu de cet appareil.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Terminando la sessione, i tuoi contenuti verranno eliminati dal dispositivo.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "セッションを終了すると、このデバイスからコンテンツが削除されます。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "세션을 종료하면 이 기기에서 사용자의 콘텐츠가 삭제됩니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "结束会话将从此设备删除你的内容。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "結束階段將會從此裝置刪除你的內容。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "結束階段會將你的內容從此裝置刪除。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_LOADING_STAGE_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "أدخل هذا الرمز على iPhone لإنهاء الاقتران.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Gib diesen Code auf deinem iPhone ein, um das Koppeln abzuschließen.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Enter this code on your iPhone to finish pairing.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Enter this code on your iPhone to finish pairing.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Enter this code on your iPhone to finish pairing.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Enter this code on your iPhone to finish pairing.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Enter this code on your iPhone to finish pairing.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Introduce este código en el iPhone para completar el enlace.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Ingresa este código en tu iPhone para terminar de enlazar.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Ingresa este código en tu iPhone para terminar de enlazar.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Saisissez ce code sur votre iPhone pour finaliser le jumelage.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Entrez ce code sur votre iPhone pour finaliser le jumelage.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Per completare l’abbinamento, inserisci questo codice su iPhone.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "ペアリングを完了するには、iPhoneでこのコードを入力してください。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "페어링을 완료하려면 이 코드를 iPhone에 입력하십시오.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "在iPhone上输入此代码完成配对。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "在iPhone輸入此認證碼以完成配對。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "在iPhone上輸入此代碼來完成配對。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "UNLOCKED": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "تم فتح القفل",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Entsperrt",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Unlocked",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Unlocked",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Unlocked",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Unlocked",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Unlocked",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Desbloqueado",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Desbloqueado",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Desbloqueado",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Déverrouillé",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Déverrouillé",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Sbloccato",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "ロックが解除されています",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "잠금 해제됨",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "已解锁",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "已解鎖",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "已解鎖",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_END_DEMO_BUTTON_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "إنهاء العرض التجريبي",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Demo beenden",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "End Demo",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "End Demo",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "End Demo",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "End Demo",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "End Demo",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Finalizar demostración",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Salir de demostración",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Salir de demostración",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Arrêter la démonstration",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Terminer la démonstration",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Termina demo",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "デモを終了",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "데모 종료",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "结束演示",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "結束示範",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "結束示範",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "SEARCH_FIELD_LABEL": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الصور، الأشخاص، الأماكن",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Fotos, Personen, Orte",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Photos, People, Places",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Photos, People, Places",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Photos, People, Places",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Photos, People, Places",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Photos, People, Places",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Fotos, personas, lugares",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Fotos, personas, lugares",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Fotos, personas, lugares",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Photos, personnes, lieux",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Photos, personnes, lieux",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Foto, persone, luoghi",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "写真、ピープル、撮影地",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "사진, 사람들, 장소",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "照片、人物、地点",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "相片、人物、地點",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "照片、人物、地點",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_TAB_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "عرض تجريبي في المتجر",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Retail-Demo",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Retail Demo",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Retail Demo",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Retail Demo",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Retail Demo",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Retail Demo",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Demo para tienda",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Demostración para tienda",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Demostración para tienda",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Démonstration en magasin",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Démonstration en magasin",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Demo per negozi",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "店舗用デモ",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "매장 데모",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "零售店演示",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "零售店示範",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "店內示範",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLAPSED": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "مطوي",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Reduziert",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Collapsed",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Collapsed",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Collapsed",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Collapsed",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Collapsed",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Contraída",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Contraída",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Contraída",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Condensée",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Condensée",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Contratta",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "折りたたまれています",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "접힘",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "已折叠",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "已收合",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "已收合",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "LOCKED": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "مقفل",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Gesperrt",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Locked",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Locked",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Locked",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Locked",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Locked",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Bloqueado",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Bloqueado",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Bloqueado",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Verrouillé",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Verrouillé",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Bloccato",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "ロックされています",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "잠김",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "已锁定",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "未解鎖",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "已鎖定",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "SHAREDLIBRARY_INVITES_UNSUPPORTED_MESSAGE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "لقبول دعوة المكتبة المشتركة هذه، افتح الرابط على جهاز آخر.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Um diese Einladung zur geteilten Mediathek anzunehmen, öffne den Link auf einem anderen Gerät.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "To accept this Shared Library invitation, open the link on another device.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "To accept this Shared Library invitation, open the link on another device.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "To accept this Shared Library invitation, open the link on another device.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "To accept this Shared Library invitation, open the link on another device.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "To accept this Shared Library invitation, open the link on another device.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Para aceptar esta invitación y unirte a la fototeca compartida, abre el enlace en otro dispositivo.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Para aceptar esta invitación a la fototeca compartida, abre el enlace en otro dispositivo.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Para aceptar esta invitación a la fototeca compartida, abre el enlace en otro dispositivo.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Pour accepter cette invitation à rejoindre une photothèque partagée, ouvrez le lien sur un autre appareil.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Pour accepter cette invitation à vous joindre à une photothèque partagée, ouvrez le lien sur un autre appareil.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Per accettare l’invito alla libreria condivisa, apri il link su un altro dispositivo.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "この共有ライブラリへの参加依頼を承認するには、別のデバイスでこのリンクを開いてください。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "이 공유 보관함 초대를 수락하려면 다른 기기에서 링크를 여십시오.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "若要接受此共享图库邀请，请在另一台设备上打开链接。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "如要接受此「共享圖庫」邀請，請於另一部裝置中開啟該連結。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "若要接受此「共享的圖庫」邀請，請在其他裝置上打開連結。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PUONEUP_QUICK_ACTION_EXIT_IMMERSIVE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الخروج من النمط الغامر",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Immersiven Modus beenden",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Exit Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Exit Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Exit Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Exit Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Exit Immersive Mode",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Salir del modo inmersivo",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Salir del modo inmersivo",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Salir del modo inmersivo",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Quitter le mode Immersif",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Quitter le mode Immersif",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Esci dalla modalità immersiva",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "イマーシブモードを終了",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "몰입형 모드 종료",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "退出沉浸模式",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "離開沉浸模式",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "結束沉浸模式",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PEOPLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الأشخاص",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Personen",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "People",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "People",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "People",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "People",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "People",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Personas",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Personas",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Personas",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Personnes",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Personnes",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Persone",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "ピープル",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "사람들",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "人物",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "人物",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "人物",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "EMPTY_LIBRARY_TITLE_PANORAMA": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "لا توجد صور بانوراما",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Keine Panoramafotos",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "No Panorama Photos",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "No Panorama Photos",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "No Panorama Photos",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "No Panorama Photos",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "No Panorama Photos",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "No hay fotos panorámicas",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Sin fotos panorámicas",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Sin fotos panorámicas",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Aucune photo panoramique",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Aucune photo panoramique",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Nessuna foto panoramica",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "パノラマ写真なし",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "파노라마 사진 없음",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "无全景照片",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "沒有全景相片",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "無全景照片",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLECTIONS_BUDDY_BULLETED_ITEM_THREE_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "تم تحديث الأشخاص والحيوانات الأليفة",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Aktualisierte Personen & Haustiere",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Updated People & Pets",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Updated People & Pets",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Updated People & Pets",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Updated People & Pets",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Updated People & Pets",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Personas y mascotas actualizadas",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Actualizaciones para personas y mascotas",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Actualizaciones para personas y mascotas",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Personnes et animaux mis à jour",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Mettre à jour Personnes et animaux",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Persone e animali aggiornati",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "アップデートされた“ピープルとペット”",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "업데이트된 ‘사람들 및 반려동물’",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "人物与宠物更新",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "更新的「人物與寵物」",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "更新的人物與寵物",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLECTIONS_BUDDY_BULLETED_ITEM_THREE_BODY": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "تصنيف الأشخاص والحيوانات الأليفة، بما في ذلك إمكانية إعادة التسمية والمراجعة للحصول على اقتراحات أفضل.",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Kategorisiere Personen und Haustiere, einschließlich der Option, sie umzubenennen und zu überprüfen, um bessere Vorschläge zu erhalten.",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Categorize people and pets, including the ability to rename and review for better suggestions.",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Categorise people and pets, including the ability to rename and review for better suggestions.",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Categorize people and pets, including the ability to rename and review for better suggestions.",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Categorise people and pets, including the ability to rename and review for better suggestions.",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Categorize people and pets, including the ability to rename and review for better suggestions.",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Clasifica las personas y mascotas, y podrás también cambiarles el nombre y revisarlas para obtener mejores sugerencias.",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Puedes categorizar a las personas y a las mascotas, e incluso cambiarles el nombre y revisarlas para obtener mejores sugerencias.",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Puedes categorizar a las personas y a las mascotas, e incluso cambiarles el nombre y revisarlas para obtener mejores sugerencias.",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Catégorisez les personnes et les animaux de compagnie, avec notamment la possibilité de renommer et de vérifier les catégories pour obtenir de meilleures suggestions.",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Classez les personnes et les animaux de compagnie, et renommez-les ou modifiez-les pour obtenir de meilleures suggestions.",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Categorizza le persone e gli animali domestici, rinominali e rivedili per ottenere suggerimenti migliori.",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "人やペットがカテゴリ分けされます。名前を変更したり、より適切な候補を確認したりすることもできます。",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "사람들 및 반려동물을 카테고리로 분류하고, 이름을 변경하거나 검토하여 더 나은 제안을 받아볼 수 있습니다.",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "对人物和宠物进行分类，包括重新命名和检查功能，以获取更佳建议。",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "將人物和寵物分類，包括重新命名和檢視功能，以獲得更好的建議。",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "分類人物和寵物，包含重新命名和檢視功能，以獲得更好的建議。",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "COLLECTIONS_BUDDY_HEADER": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الجديد في الصور",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Neu in „Fotos“",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "What's New in Photos",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "What's New in Photos",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "What's New in Photos",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "What's New in Photos",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "What's New in Photos",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Novedades de Fotos",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Novedades de Fotos",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Novedades de Fotos",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Nouveautés de Photos",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Nouveautés de Photos",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Novità di Foto",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "“写真”の新機能",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "사진의 새로운 기능",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "“照片”新功能",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "「相片」新功能",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "「照片」的新功能",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_ALBUM_EMPTY_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "يجري تحميل المحتوى…",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Deine Inhalte werden geladen …",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Loading your content…",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Loading your content…",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Loading your content…",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Loading your content…",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Loading your content…",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Cargando tu contenido…",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Cargando tu contenido…",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Cargando tu contenido…",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Chargement de votre contenu…",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Chargement du contenu…",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Carico il contenuto…",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "コンテンツを読み込み中…",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "콘텐츠 앨범 로드 중…",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "正在加载你的内容…",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "正在載入你的內容⋯",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "正在載入你的內容⋯",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_RESTART_BUTTON_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "إعادة التشغيل",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Neu starten",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Restart",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Restart",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Restart",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Restart",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Restart",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Reiniciar",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Reiniciar",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Reiniciar",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Recommencer",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Recommencer",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Riavvia",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "再起動",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "재시동",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "重启",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "重新啟動",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "重新開始",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "RETAIL_END_DEMO_ALERT_CONFIRM_BUTTON_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "إنهاء الجلسة",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Sitzung beenden",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "End Session",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "End Session",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "End Session",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "End Session",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "End Session",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Finalizar sesión",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Finalizar sesión",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Finalizar sesión",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Mettre fin à la session",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Mettre fin à la session",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Termina sessione",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "セッションを終了",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "세션 종료",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "结束会话",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "結束階段",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "結束階段",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "SHAREDLIBRARY_INVITES_UNSUPPORTED_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الدعوة غير مدعومة",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Einladung nicht unterstützt",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Invitation Not Supported",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Invitation Not Supported",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Invitation Not Supported",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Invitation Not Supported",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Invitation Not Supported",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Invitación incompatible",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Invitación no compatible",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Invitación no compatible",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Invitation non prise en charge",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Invitation non prise en charge",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Invito non supportato",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "参加依頼に対応していません",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "초대가 지원되지 않음",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "邀请不受支持",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "不支援邀請",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "不支援邀請",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "ALBUM_LOADING_FALLBACK": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "يجري تحميل الألبوم...",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Album laden …",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Loading Album...",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Loading Album…",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Loading Album...",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Loading Album…",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Loading Album...",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Cargando álbum…",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Cargando álbum…",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Cargando álbum…",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Chargement de l’album…",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Chargement de l’album…",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Carico l’album…",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "アルバムを読み込み中…",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "앨범 로드 중…",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "正在加载相簿…",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "正在載入相簿⋯",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "正在載入相簿⋯",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "PXSharedLibrary_Empty_Switch_To_Your_Library": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "التبديل إلى \"مكتبتك\"",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Zu „Deine Mediathek“ wechseln",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Switch to Your Library",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Switch to Your Library",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Switch to Your Library",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Switch to Your Library",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Switch to Your Library",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Ver tu fototeca",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Cambiar a tu fototeca",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Cambiar a tu fototeca",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Passer à votre bibliothèque",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Passer à votre bibliothèque",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Passa alla tua libreria",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "個人用ライブラリに切り替える",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "사용자의 보관함으로 전환",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "切换图库",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "切換至「你的圖庫」",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "切換成你的圖庫",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "IMPORT": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "الكاميرا",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Kamera",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Camera",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Camera",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Camera",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Camera",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Camera",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Cámara",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Cámara",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Cámara",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Caméra",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Caméra",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Fotocamera",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "カメラ",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "카메라",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "相机",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "相機",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "相機",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "SEARCH_RESULTS_COUNT_SINGULAR": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "صورة واحدة (%d)",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "%d Foto",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "%d Photo",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "%d Photo",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "%d Photo",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "%d Photo",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "%d Photo",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "%d foto",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "%d foto",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "%d foto",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "%d photo",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "%d photo",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "%d foto",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "%d枚の写真",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "%d장의 사진",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "%d张照片",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "%d張相片",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "%d張照片",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "SPATIAL_TAB_TITLE": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "مكاني",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Räumlich",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Spatial",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Spatial",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Spatial",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Spatial",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Spatial",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Espaciales",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Espacial",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Espacial",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Spatiales",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Spatiales",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Spaziali",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "空間",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "공간",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "空间效果",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "空間",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "空間",
+            "state": "translated"
+          }
+        }
+      }
+    },
+    "EXPANDED": {
+      "extractionState": "manual",
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "value": "موسع",
+            "state": "translated"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "value": "Erweitert",
+            "state": "translated"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "value": "Expanded",
+            "state": "translated"
+          }
+        },
+        "en_AU": {
+          "stringUnit": {
+            "value": "Expanded",
+            "state": "translated"
+          }
+        },
+        "en_CA": {
+          "stringUnit": {
+            "value": "Expanded",
+            "state": "translated"
+          }
+        },
+        "en_GB": {
+          "stringUnit": {
+            "value": "Expanded",
+            "state": "translated"
+          }
+        },
+        "en_IN": {
+          "stringUnit": {
+            "value": "Expanded",
+            "state": "translated"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "value": "Expandida",
+            "state": "translated"
+          }
+        },
+        "es_419": {
+          "stringUnit": {
+            "value": "Ampliada",
+            "state": "translated"
+          }
+        },
+        "es_US": {
+          "stringUnit": {
+            "value": "Ampliada",
+            "state": "translated"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "value": "Développée",
+            "state": "translated"
+          }
+        },
+        "fr_CA": {
+          "stringUnit": {
+            "value": "Développée",
+            "state": "translated"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "value": "Espansa",
+            "state": "translated"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "value": "拡げられています",
+            "state": "translated"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "value": "펼쳐짐",
+            "state": "translated"
+          }
+        },
+        "zh_CN": {
+          "stringUnit": {
+            "value": "已展开",
+            "state": "translated"
+          }
+        },
+        "zh_HK": {
+          "stringUnit": {
+            "value": "已展開",
+            "state": "translated"
+          }
+        },
+        "zh_TW": {
+          "stringUnit": {
+            "value": "已展開",
+            "state": "translated"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
